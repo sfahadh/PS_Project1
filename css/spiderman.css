@@ -1,0 +1,155 @@
+#marvel {
+  width: 80%;
+  height: 500px;
+  margin: 0 auto;
+  display: block;
+}
+
+#spiderman {
+  width: 530px;
+  height: 350px;
+  margin: 2em 0 1em 2em;
+}
+
+#spiderman2 {
+  width: 400px;
+  margin: 2em 2em 1em 0;
+}
+
+#spiderman3 {
+  width: 470px;
+  margin: 3.5em 2em 1em 4em;
+}
+
+#spiderman5 {
+  width: 400px;
+  margin: 0 0 1em 2em;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Hanalei Fill', cursive;
+  font-size: 70px;
+  margin: 20px 30px 0 30px;
+  color: #E8251B
+}
+
+h2 {
+  text-align: center;
+  position: relative;
+  top: -20px;
+  font-family: 'Hanalei Fill', cursive;
+  font-size: 2em;
+  color: #E8251B
+}
+
+hr {
+  margin: 0 80px 0 80px;
+}
+
+#first {
+  margin: 70px 80px 0 80px;
+}
+
+#article {
+  border: 2px solid black;
+  margin: 40px 180px 40px 180px;
+  height: 2230px;
+}
+
+#AnotherReview {
+  padding-top: 10px;
+  padding-left: 15px;
+}
+
+.MyReview {
+  position: relative;
+  top: -25px;
+}
+
+h4 {
+  text-indent: 20px;
+}
+#Topic {
+  position: relative;
+  top: 20px;
+  color: black;
+  font-family: 'Merienda', cursive;
+}
+
+.summaryArticle {
+  position: relative;
+  top: -25px;
+}
+
+.Opinion {
+  font-family: 'Merienda', cursive;
+  color: black;
+  padding: 20px 0 0 8px;
+}
+
+.Description {
+  position: relative;
+  right: -40px;
+  bottom: -20px;
+  padding-right: 50px;
+}
+
+.summary {
+  position: relative;
+  left: -40px;
+  padding-left: 50px;
+}
+
+.parts {
+  padding-bottom: 10px;
+  font-family: 'Kanit', sans-serif;
+  font-size: 1.1em;
+}
+
+p {
+  margin: 30px;
+  line-height: 1.5;
+  font-family: 'Merienda', cursive;
+}
+
+span {
+  font-weight: 800;
+}
+
+table {
+  position: relative;
+  right: -40px;
+  bottom: -5px;
+  width: 550px;
+  height: 300px;
+}
+
+th, tr {
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+  font-family: 'Kanit', sans-serif;
+}
+
+.space {
+  padding: 0 10px 0 10px;
+}
+
+.review {
+  padding: 5px;
+
+}
+
+th {
+  font-weight: 700;
+  font-size: 1.1em;
+}
+
+#trailer {
+  position: absolute;
+  top: -30%;
+  left: -0.1%;
+}

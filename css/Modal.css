@@ -1,0 +1,53 @@
+#modal {
+  position: relative;
+  right: -42%;
+  bottom: -10px;
+  color: #E8251B;
+  font-size: 20px;
+}
+
+.modalDialog {
+	position: fixed;
+  /* pointer-events: none; */
+	top: 0;
+	right: 0;
+	bottom: 1;
+	left: 0;
+  font-family: 'Kanit', sans-serif;
+	background: rgba(220,13,27,0.9);
+	opacity: 0;
+}
+
+.close {
+  color: white;
+  position: relative;
+  top: -150px;
+  left: -50px;
+}
+
+.modalDialog:target {
+	opacity: 0.97;
+	pointer-events: auto;
+}
+
+#modalText {
+  color: white;
+  margin-bottom: 0;
+}
+
+hr {
+  position: relative;
+  top: -30px;
+  left: -40px;
+}
+
+#ModalIn {
+	width: 500px;
+  height: 250px;
+	position: relative;
+	margin: 8.5% auto;
+	padding: 5px 20px 15px 20px;
+	background: rgba(52, 52, 52, 1);
+	background: -moz-linear-gradient(rgba(52, 52, 52, 1), gray);
+	background: -webkit-linear-gradient(rgba(52, 52, 52, 1), gray);
+}
